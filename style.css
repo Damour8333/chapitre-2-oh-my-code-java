@@ -18,7 +18,9 @@ body{
     font-family:arial,sans-serif;
     color:white;
 }
-
+h1{
+    color:red;
+}
 /*style de la balise .container avec flex*/
 
 .container{
